@@ -1,1 +1,1 @@
-In this repository you can find some Java-solutions of tasks from E-OLYMP.
+In this repository you can find Java-solutions of some tasks from E-olymp.
